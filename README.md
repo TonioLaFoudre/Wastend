@@ -22,6 +22,5 @@ Aidez nous à developper se projet!!
 
 ### Pour developper les Questions
 
-https://poce-my.sharepoint.com/:x:/g/personal/antoine_gardent_edu_ece_fr/EeyfpHJ2j6NGvWLMElnSkHcBCOMgD6g0SoL5DNdTZkWyXQ?e=kpPdFK
-
-
+Le fichier Question.xls est la pour ca 
+Nous cherchons actuellement de meilleurs solutions pour le fichier questions 
