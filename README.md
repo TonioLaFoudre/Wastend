@@ -16,6 +16,12 @@ Ainsi, nos convictions ont donc permis de développer WastEnd, un jeu mobile s�
 
 ### Comment ?
 
-WastEnd est jeu de gestion, où le joueur incarne le leader d'une grande puissance dans le but d’effectuer des choix cruciaux. Il est confronté à la décision de projet de lois (d’après nos sources, ces lois sont souvent passées inaperçues ou alors elles vont bientôt être proposées) et doit les accepter ou refuser. Chacun de ses choix impactent quatre jauges : la santé de la planète, l’opinion public, l’opinion des entreprises et l’argent. En fonction de l’état de ces quatre jauges, une fin correspondante lui sera proposée. Enfin, il pourra rejouer la simulation pour atteindre d'autres fins différentes.   
+WastEnd est jeu de gestion, où le joueur incarne le leader d'une grande puissance dans le but d’effectuer des choix cruciaux. Il est confronté à la décision de projet de lois (d’après nos sources, ces lois sont souvent passées inaperçues ou alors elles vont bientôt être proposées) et doit les accepter ou refuser. Chacun de ses choix impactent quatre jauges : la santé de la planète, l’opinion public, l’opinion des entreprises et l’argent. En fonction de l’état de ces quatre jauges, une fin correspondante lui sera proposée. Enfin, il pourra rejouer la simulation pour atteindre d'autres fins différentes.
 
 Aidez nous à developper se projet!!
+
+### Pour developper les Questions
+
+https://poce-my.sharepoint.com/:x:/g/personal/antoine_gardent_edu_ece_fr/EeyfpHJ2j6NGvWLMElnSkHcBCOMgD6g0SoL5DNdTZkWyXQ?e=kpPdFK
+
+
